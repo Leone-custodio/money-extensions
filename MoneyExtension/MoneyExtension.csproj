@@ -13,8 +13,8 @@
     <Company>balta.io</Company>
     <PackageDescription>Extension to convert decimal to integer</PackageDescription>
     <Description>Extension to convert decimal to integer</Description>
-    <RepositoryUrl>https://github.com/Leone-custodio/money-extensions.git</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/Leone-custodio/money-extensions.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Leone-custodio/money-extension.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Leone-custodio/money-extension.git</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decima;converter</PackageTags>
